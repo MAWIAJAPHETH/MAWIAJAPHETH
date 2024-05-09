@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAWIAJAPHETH
+- 👋 Hi, I’m @Japheth M. Mawia
 - 👀 I’m interested in mastering digital tech skills.
 - 🌱 I’m currently learning Data Science, Web Development and CyberSecurity.
 - 💞️ I’m looking to collaborate on any of the above fields.
