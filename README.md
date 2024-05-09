@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I'm very green in tech.
 
 <!---
-MAWIAJAPHETH/MAWIAJAPHETH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MAWIAJAPHETH/First is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
